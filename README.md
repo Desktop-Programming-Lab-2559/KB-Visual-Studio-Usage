@@ -7,4 +7,4 @@
 
 
 
-###[ตัวอย่างการสร้าง Project](https://github.com/Desktop-Programming-Lab-2559/KB-Visual-Studio-Usage/wiki/Console-Project)
+###[Console Project](https://github.com/Desktop-Programming-Lab-2559/KB-Visual-Studio-Usage/wiki/Console-Project)
